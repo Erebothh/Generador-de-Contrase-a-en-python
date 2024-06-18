@@ -16,7 +16,7 @@ def generador_passwd(longitud=20, incluir_mayusculas=True, incluir_numeros=True,
 
 
 def main():
-    print("Buenas, Generemos una Contraseñas")
+    print("Buenas, Generemos una Contraseña")
 
     try:
         longitud = int(input("Ingrese la longitud de la contraseña (hasta el 20, número entero) "))
